@@ -1,6 +1,6 @@
 Install gd:
 
-`sudo apt-get install php5-gd`
+`sudo apt-get install php-gd`
 
 Run composer install:
 
